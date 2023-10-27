@@ -1,0 +1,15 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: rgb(178, 11, 230);
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:red ;
+    font-size:90px;
+    font-weight: 900;
+
+}
